@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://www.mulherportuguesa.com/wp-content/uploads/2016/10/Significado-da-cor-preto.jpg);
+    background-size: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.tm-social {
+    width: 40px;
+    height: 40px;
+}
